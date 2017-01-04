@@ -5,7 +5,7 @@ Several years ago, when I got my MacBook, I realized there were no Russian phone
 
 In an effort to simplify and standardize the layouts I added support for both, OSX and Windows.
 
-The layout source files are available in this repository, feel free to download and reconfigure them per your personal preference. OSX version was created by <b>Ukelete</b> ([http://scripts.sil.org/ukelele](http://scripts.sil.org/ukelele)), the Windows version by <b>The Microsoft Keyboard Layout Creator</b> [https://msdn.microsoft.com/en-us/globalization/keyboardlayouts.aspx]((https://msdn.microsoft.com/en-us/globalization/keyboardlayouts.aspx)).
+The layout source files are available in this repository, feel free to download and reconfigure them per your personal preference. OSX version was created by <b>Ukelete</b> ([http://scripts.sil.org/ukelele](http://scripts.sil.org/ukelele)), the Windows version by <b>The Microsoft Keyboard Layout Creator</b> ([https://msdn.microsoft.com/en-us/globalization/keyboardlayouts.aspx](https://msdn.microsoft.com/en-us/globalization/keyboardlayouts.aspx)).
 
 ## Installation on Windows
 1. Download the installation zip file for the layout you want from [url].
