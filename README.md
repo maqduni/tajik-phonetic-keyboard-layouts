@@ -5,7 +5,7 @@ Several years ago, when I got my MacBook, I realized there were no Russian phone
 
 In an effort to simplify and standardize the layouts I added support for both, OSX and Windows.
 
-The layout source files are available in this repository, feel free to download and reconfigure them per your personal preference. OSX version was created by <b>Ukelete</b> ([http://scripts.sil.org/ukelele](http://scripts.sil.org/ukelele)), the Windows version by <b>The Microsoft Keyboard Layout Creator</b> ([https://msdn.microsoft.com/en-us/globalization/keyboardlayouts.aspx](https://msdn.microsoft.com/en-us/globalization/keyboardlayouts.aspx)).
+The layout source files are available in this repository, feel free to download and reconfigure them per your personal preference. OSX version was created by **Ukelete** ([http://scripts.sil.org/ukelele](http://scripts.sil.org/ukelele)), the Windows version by **The Microsoft Keyboard Layout Creator** ([https://msdn.microsoft.com/en-us/globalization/keyboardlayouts.aspx](https://msdn.microsoft.com/en-us/globalization/keyboardlayouts.aspx)).
 
 ## Installation on Windows
 1. Download the installation package for the layout you want: 
@@ -27,45 +27,78 @@ Done!
 
 ## Usage
 
-### Russian keyboard has a very intuitive layout, the usual ЯШЕРТ layout is now ЯВЕРТ, which I find more convenient. The full layout is presented on the figures below
+#### Russian keyboard has a very intuitive layout, the usual ЯШЕРТ layout is now ЯВЕРТ, which I find more convenient. The full layout is presented on the figures below
 
 #### Windows
 * No modifier keys depressed
 
+  ![alt-text](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/img/win-rus-no-mod.jpg "No modifier keys depressed (Windows)")
+  
 * Shift
 
+  ![alt-text](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/img/win-rus-shft.jpg "Shift (Windows)")
+  
 * Right Alt (Ctrl + Alt)
 
+  ![alt-text](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/img/win-rus-altgr.jpg "Right Alt (Ctrl + Alt) (Windows)")
+  
 * Shift + Right Alt (Ctrl + Alt)
+
+  ![alt-text](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/img/win-rus-shft-altgr.jpg "Shift + Right Alt (Ctrl + Alt) (Windows)")
 
 #### OSX
 * No modifier keys depressed
 
+  ![alt-text](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/img/osx-rus-no-mod.jpg "No modifier keys depressed (OSX)")
+  
 * Shift
+
+  ![alt-text](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/img/osx-rus-shft.jpg "Shift (OSX)")
 
 * Alt (Option)
 
+  ![alt-text](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/img/osx-rus-alt.jpg "Alt (Option) (OSX)")
+
 * Shift + Alt (Option)
 
-### Tajik keyboard is built upon it's Russian counterpart, all non-existent Russian letters are replaced with Tajik letters as on the figures below
+  ![alt-text](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/img/osx-rus-shft-alt.jpg "Shift + Alt (Option) (OSX)")
+
+
+#### Tajik keyboard is built upon it's Russian counterpart, all non-existent Russian letters are replaced with Tajik letters as on the figures below
 
 #### Windows
 * No modifier keys depressed
 
+  ![alt-text](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/img/win-taj-no-mod.jpg "No modifier keys depressed (Windows)")
+  
 * Shift
 
+  ![alt-text](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/img/win-taj-shft.jpg "Shift (Windows)")
+  
 * Right Alt (Ctrl + Alt)
 
+  ![alt-text](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/img/win-taj-altgr.jpg "Right Alt (Ctrl + Alt) (Windows)")
+  
 * Shift + Right Alt (Ctrl + Alt)
+
+  ![alt-text](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/img/win-taj-shft-altgr.jpg "Shift + Right Alt (Ctrl + Alt) (Windows)")
 
 #### OSX
 * No modifier keys depressed
 
+  ![alt-text](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/img/osx-taj-no-mod.jpg "No modifier keys depressed (OSX)")
+  
 * Shift
+
+  ![alt-text](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/img/osx-taj-shft.jpg "Shift (OSX)")
 
 * Alt (Option)
 
+  ![alt-text](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/img/osx-taj-alt.jpg "Alt (Option) (OSX)")
+
 * Shift + Alt (Option)
+
+  ![alt-text](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/img/osx-taj-shft-alt.jpg "Shift + Alt (Option) (OSX)")
 
 # TODO
 1. Add Farsi phonetic layout for OSX
