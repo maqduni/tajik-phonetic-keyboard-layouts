@@ -25,7 +25,7 @@ Done!
 
 Done!
 
-## Usage
+## Usage - Russian Layout
 
 #### Russian keyboard has a very intuitive layout, the usual ЯШЕРТ layout is now ЯВЕРТ, which I find more convenient. The full layout is presented on the figures below
 
@@ -63,6 +63,7 @@ Done!
 
   ![alt-text](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/img/osx-rus-shft-alt.png "Shift + Alt (Option) (OSX)")
 
+## Usage - Tajik Layout
 
 #### Tajik keyboard is built upon it's Russian counterpart, all non-existent Russian letters are replaced with Tajik letters as on the figures below
 
