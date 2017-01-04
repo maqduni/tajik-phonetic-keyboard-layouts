@@ -32,7 +32,7 @@ Done!
 #### Windows
 * No modifier keys depressed
 
-  ![alt-text](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/img/win-rus-no-mod.jpg "No modifier keys depressed (Windows)")
+  ![alt-text](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/img/win-rus-nomod.jpg "No modifier keys depressed (Windows)")
   
 * Shift
 
@@ -40,16 +40,16 @@ Done!
   
 * Right Alt (Ctrl + Alt)
 
-  ![alt-text](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/img/win-rus-altgr.jpg "Right Alt (Ctrl + Alt) (Windows)")
+  ![alt-text](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/img/win-rus-alt.jpg "Right Alt (Ctrl + Alt) (Windows)")
   
 * Shift + Right Alt (Ctrl + Alt)
 
-  ![alt-text](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/img/win-rus-shft-altgr.jpg "Shift + Right Alt (Ctrl + Alt) (Windows)")
+  ![alt-text](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/img/win-rus-shft-alt.jpg "Shift + Right Alt (Ctrl + Alt) (Windows)")
 
 #### OSX
 * No modifier keys depressed
 
-  ![alt-text](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/img/osx-rus-no-mod.jpg "No modifier keys depressed (OSX)")
+  ![alt-text](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/img/osx-rus-nomod.jpg "No modifier keys depressed (OSX)")
   
 * Shift
 
@@ -69,7 +69,7 @@ Done!
 #### Windows
 * No modifier keys depressed
 
-  ![alt-text](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/img/win-taj-no-mod.jpg "No modifier keys depressed (Windows)")
+  ![alt-text](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/img/win-taj-nomod.jpg "No modifier keys depressed (Windows)")
   
 * Shift
 
@@ -77,16 +77,16 @@ Done!
   
 * Right Alt (Ctrl + Alt)
 
-  ![alt-text](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/img/win-taj-altgr.jpg "Right Alt (Ctrl + Alt) (Windows)")
+  ![alt-text](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/img/win-taj-alt.jpg "Right Alt (Ctrl + Alt) (Windows)")
   
 * Shift + Right Alt (Ctrl + Alt)
 
-  ![alt-text](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/img/win-taj-shft-altgr.jpg "Shift + Right Alt (Ctrl + Alt) (Windows)")
+  ![alt-text](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/img/win-taj-shft-alt.jpg "Shift + Right Alt (Ctrl + Alt) (Windows)")
 
 #### OSX
 * No modifier keys depressed
 
-  ![alt-text](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/img/osx-taj-no-mod.jpg "No modifier keys depressed (OSX)")
+  ![alt-text](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/img/osx-taj-nomod.jpg "No modifier keys depressed (OSX)")
   
 * Shift
 
