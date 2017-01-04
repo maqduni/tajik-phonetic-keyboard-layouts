@@ -49,19 +49,19 @@ Done!
 #### OSX
 * No modifier keys depressed
 
-  ![alt-text](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/img/osx-rus-nomod.jpg "No modifier keys depressed (OSX)")
+  ![alt-text](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/img/osx-rus-nomod.png "No modifier keys depressed (OSX)")
   
 * Shift
 
-  ![alt-text](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/img/osx-rus-shft.jpg "Shift (OSX)")
+  ![alt-text](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/img/osx-rus-shft.png "Shift (OSX)")
 
 * Alt (Option)
 
-  ![alt-text](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/img/osx-rus-alt.jpg "Alt (Option) (OSX)")
+  ![alt-text](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/img/osx-rus-alt.png "Alt (Option) (OSX)")
 
 * Shift + Alt (Option)
 
-  ![alt-text](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/img/osx-rus-shft-alt.jpg "Shift + Alt (Option) (OSX)")
+  ![alt-text](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/img/osx-rus-shft-alt.png "Shift + Alt (Option) (OSX)")
 
 
 #### Tajik keyboard is built upon it's Russian counterpart, all non-existent Russian letters are replaced with Tajik letters as on the figures below
@@ -86,19 +86,19 @@ Done!
 #### OSX
 * No modifier keys depressed
 
-  ![alt-text](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/img/osx-taj-nomod.jpg "No modifier keys depressed (OSX)")
+  ![alt-text](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/img/osx-taj-nomod.png "No modifier keys depressed (OSX)")
   
 * Shift
 
-  ![alt-text](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/img/osx-taj-shft.jpg "Shift (OSX)")
+  ![alt-text](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/img/osx-taj-shft.png "Shift (OSX)")
 
 * Alt (Option)
 
-  ![alt-text](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/img/osx-taj-alt.jpg "Alt (Option) (OSX)")
+  ![alt-text](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/img/osx-taj-alt.png "Alt (Option) (OSX)")
 
 * Shift + Alt (Option)
 
-  ![alt-text](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/img/osx-taj-shft-alt.jpg "Shift + Alt (Option) (OSX)")
+  ![alt-text](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/img/osx-taj-shft-alt.png "Shift + Alt (Option) (OSX)")
 
 # TODO
 1. Add Farsi phonetic layout for OSX
