@@ -1,7 +1,7 @@
 # Tajik and Russian phonetic keyboard layouts for OSX/Windows
 
 ## Overview
-Several years ago, when I got my MacBook, I realized there were no Russian phonetic layouts for OSX, so I decided to create my own. My wife and I have been using it since then, but until recently when I created the Tajik phonetic keyboard layout I haven't thought of sharing it with anyone publicly. Now I'm sharing the layouts with others and I'm very hopeful people are going to find them useful.
+Several years ago, when I got my MacBook, I realized there were no Russian phonetic layouts for OSX, so I decided to create my own. My wife and I have been using it since then, but until recently when I created the Tajik phonetic keyboard layout I hadn't thought of sharing it with anyone publicly. Now I'm sharing the layouts with others and I'm very hopeful people are going to find them useful.
 
 In an effort to simplify and standardize the layouts I added support for both, OSX and Windows.
 
