@@ -25,5 +25,46 @@ Done!
 
 Done!
 
+## Usage
+### Russian keyboard has a very intuitive layout, the usual ЯШЕРТ layout is now ЯВЕРТ, which I find more convenient. The full layout is presented on the figures below
+
+#### Windows
+* No modifier keys depressed
+
+* Shift
+
+* Right Alt (Ctrl + Alt)
+
+* Shift + Right Alt (Ctrl + Alt)
+
+#### OSX
+* No modifier keys depressed
+
+* Shift
+
+* Alt (Option)
+
+* Shift + Alt (Option)
+
+### Tajik keyboard is built upon it's Russian counterpart, all non-existent Russian letters are replaced with Tajik letters as on the figures below
+
+#### Windows
+* No modifier keys depressed
+
+* Shift
+
+* Right Alt (Ctrl + Alt)
+
+* Shift + Right Alt (Ctrl + Alt)
+
+#### OSX
+* No modifier keys depressed
+
+* Shift
+
+* Alt (Option)
+
+* Shift + Alt (Option)
+
 # TODO
 1. Add Farsi phonetic layout for OSX
