@@ -12,16 +12,22 @@ The layout source files are available in this repository, feel free to download 
 2. Unpack and run setup.exe.
 3. Open the language bar settings and set the layout as default, if necessary.
 
-Done!
+Done! You can now choose the layout from the list of available input sources and type in Tajik.
 
 ## Installation on OSX
 1. Download the installation package for the layout you want: 
 [Tajik](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/dist/osx-tajik-phonetic-keyboard.zip), 
 [Russian](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/dist/osx-russian-phonetic-keyboard.zip)
-2. If you wish to install the layout for the current user, unpack the package to `~/Library/Keyboard Layouts/`. For all users, to `/Library/Keyboard Layouts/`. In order to go these folders directly you can use Finder's `Go to Folder` command (Cmd + Shift + G).
-3. Add the installed layout as an `Input Source`, the layout appears unders `Others` category in the list of all available languages.
+2. Unpack the zip package to a folder.
+3. Copy the contents of the folder (Cmd + C).
+4. Use Finder's `Go to Folder` command (Cmd + Shift + G) and go to `~/Library/Keyboard Layouts/`.
+5. Paste the copied files into `~/Library/Keyboard Layouts/` in order to install the keyboard layout for the currently logged in user.
 
-Done!
+NOTE: If you wish to install the layout for all users, you have to copy the contents of the installation package to `/Library/Keyboard Layouts/`. 
+
+6. Navigate to `System Preferences -> Keyboard -> Input Sources`, click `+`, find the layout in `Others` category, select it, and click `Add`.
+
+Done! You can now choose the layout from the list of available input sources and type in Tajik.
 
 ## Usage - Russian Layout
 
