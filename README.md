@@ -1,9 +1,7 @@
 # Tajik and Russian phonetic keyboard layouts for OSX/Windows
 
 ## Overview
-Several years ago, when I got my MacBook, I realized there were no Russian phonetic layouts for OSX, so I decided to create my own. My wife and I have been using it since then, but until recently when I created the Tajik phonetic keyboard layout I hadn't thought of sharing it with anyone publicly. I'm sharing the layouts with others now and I'm very hopeful people are going to find them useful.
-
-In an effort to simplify and standardize the layouts I added support for both, OSX and Windows.
+Several years ago, when I got my MacBook, I quickly realized that I couldn't use my Latin keyboard to type in Russian, this encouraged me to create my own phonetic keyboard layout. My wife and I have been joyfully using it since. Recently I started to work on a Tajik online dictionary which required a lot of typing and I had to come up with way to use my Latin keyoabrd again. So based on my Russian phonetic layout I created the Tajik phonetic layout for OSX. In an effort to simplify and standardize the layouts I added support for both, OSX and Windows. I'm very hopeful people are going to find them useful.
 
 The layout source files are available in this repository, feel free to download and reconfigure them per your personal preference. OSX version was created with **Ukelete** ([http://scripts.sil.org/ukelele](http://scripts.sil.org/ukelele)), the Windows version with **The Microsoft Keyboard Layout Creator** ([https://msdn.microsoft.com/en-us/globalization/keyboardlayouts.aspx](https://msdn.microsoft.com/en-us/globalization/keyboardlayouts.aspx)).
 
