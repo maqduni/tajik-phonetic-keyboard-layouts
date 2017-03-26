@@ -98,6 +98,3 @@ Done!
 * Shift + Alt (Option)
 
   ![alt-text](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/img/osx-taj-shft-alt.png "Shift + Alt (Option) (OSX)")
-
-# TODO
-1. Add Farsi phonetic layout for OSX
