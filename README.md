@@ -5,16 +5,6 @@ Recently I started to work on a Tajik online dictionary which required a lot of 
 
 The layout source files are available in this repository, feel free to download and reconfigure them per your personal preference. OSX version was created with **Ukelete** ([http://scripts.sil.org/ukelele](http://scripts.sil.org/ukelele)), the Windows version with **The Microsoft Keyboard Layout Creator** ([https://msdn.microsoft.com/en-us/globalization/keyboardlayouts.aspx](https://msdn.microsoft.com/en-us/globalization/keyboardlayouts.aspx)).
 
-## Installation on Windows
-1. Download the installation package for the layout you want: 
-[Windows Tajik Phonetic ЯВЕРТ](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/dist/win-tajik-phonetic-keyboard.zip)
-2. Unpack the zip package and run setup.exe.
-3. Open the language bar settings and set the layout as default, if necessary.
-
-NOTE: On Windows 10, you might have to enable the language bar in the `Control Panel -> Regional and Language Settings`.
-
-Done! You can now choose the layout from the list of available input sources and type in Tajik.
-
 ## Installation on OSX
 1. Download the installation package for the layout you want:
 * [OSX Tajik (Standard)](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/dist/osx-tajik-keyboard.dmg)
@@ -26,6 +16,15 @@ Done! You can now choose the layout from the list of available input sources and
 
 Done! You can now choose the layout from the list of available input sources and type in Tajik.
 
+## Installation on Windows
+1. Download the installation package for the layout you want: 
+[Windows Tajik Phonetic ЯВЕРТ](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/dist/win-tajik-phonetic-keyboard.zip)
+2. Unpack the zip package and run setup.exe.
+3. Open the language bar settings and set the layout as default, if necessary.
+
+NOTE: On Windows 10, you might have to enable the language bar in the `Control Panel -> Regional and Language Settings`.
+
+Done! You can now choose the layout from the list of available input sources and type in Tajik.
 
 ## * As a bonus I also added Russian phonetic layouts for OSX and Windows which you can download from the links below,
 * [OSX Russian Phonetic ЯВЕРТ](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/dist/osx-russian-keyboard.dmg)
@@ -36,17 +35,6 @@ Done! You can now choose the layout from the list of available input sources and
 
 #### Tajik keyboard is built upon it's Russian counterpart, all non-existent Russian letters are replaced with Tajik letters as on the figures below
 
-#### Windows
-* No modifier keys depressed
-
-  ![alt-text](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/img/win-taj-nomod.jpg "No modifier keys depressed (Windows)")
-
-* Right Alt (Ctrl + Alt)
-
-  ![alt-text](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/img/win-taj-alt.jpg "Right Alt (Ctrl + Alt) (Windows)")
-
-* Shift key UPPERCASES every letter.
-
 #### OSX
 * No modifier keys depressed
 
@@ -55,5 +43,16 @@ Done! You can now choose the layout from the list of available input sources and
 * Alt (Option)
 
   ![alt-text](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/img/osx-taj-alt.png "Alt (Option) (OSX)")
+
+* Shift key UPPERCASES every letter.
+
+#### Windows
+* No modifier keys depressed
+
+  ![alt-text](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/img/win-taj-nomod.jpg "No modifier keys depressed (Windows)")
+
+* Right Alt (Ctrl + Alt)
+
+  ![alt-text](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/img/win-taj-alt.jpg "Right Alt (Ctrl + Alt) (Windows)")
 
 * Shift key UPPERCASES every letter.
