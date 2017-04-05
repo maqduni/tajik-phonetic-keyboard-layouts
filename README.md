@@ -9,10 +9,9 @@ The layout source files are available in this repository, feel free to download 
 1. Download the installation package for the layout you want: 
 [Windows Tajik Phonetic ЯВЕРТ](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/dist/win-tajik-phonetic-keyboard.zip)
 2. Unpack the zip package and run setup.exe.
+3. Open the language bar settings and set the layout as default, if necessary.
 
 NOTE: On Windows 10, you might have to enable the language bar in the `Control Panel -> Regional and Language Settings`.
-
-3. Open the language bar settings and set the layout as default, if necessary.
 
 Done! You can now choose the layout from the list of available input sources and type in Tajik.
 
@@ -22,18 +21,18 @@ Done! You can now choose the layout from the list of available input sources and
 * [OSX Tajik PC (Standard)](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/dist/osx-tajik-keyboard.dmg)
 * [OSX Tajik Phonetic (ҚШЕРТ)](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/dist/osx-tajik-keyboard.dmg)
 * [OSX Tajik Phonetic ҚВЕРТ](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/dist/osx-tajik-keyboard.dmg)
-
+2. Run the installatiion package and follow the instructions.
 3. Navigate to `System Preferences -> Keyboard -> Input Sources`, click `+`, find the layout in `Tajik` category, select the installed layout, and click `Add`.
 
 Done! You can now choose the layout from the list of available input sources and type in Tajik.
 
 
-## As a bonus I also added Russian phonetic layouts for OSX and Windows which you can download from the links below,
+## * As a bonus I also added Russian phonetic layouts for OSX and Windows which you can download from the links below,
 * [OSX Russian Phonetic ЯВЕРТ](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/dist/win-russian-keyboard.dmg)
 * [Windows Russian Phonetic ЯВЕРТ](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/dist/win-russian-keyboard.zip)
 * [Windows Russian Phonetic ЯШЕРТ](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/dist/win-russian-keyboard.zip)
 
-## Usage - Tajik Phonetic Layout ЯВЕРТ
+## Usage - Tajik Phonetic Layout ЯВЕРТ (IMPORTANT! The layouts is obsolete, it has been changed to ҚВЕРТ).
 
 #### Tajik keyboard is built upon it's Russian counterpart, all non-existent Russian letters are replaced with Tajik letters as on the figures below
 
