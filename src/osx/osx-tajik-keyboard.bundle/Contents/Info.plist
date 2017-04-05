@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string>org.sil.ukelele.keyboardlayout.osx-tajik-keyboard</string>
+	<key>CFBundleName</key>
+	<string>osx-tajik-keyboard</string>
+	<key>CFBundleVersion</key>
+	<string>1.2</string>
+	<key>KLInfo_Tajik</key>
+	<dict>
+		<key>TISInputSourceID</key>
+		<string>org.sil.ukelele.keyboardlayout.osx-tajik-keyboard.tajik</string>
+		<key>TISIntendedLanguage</key>
+		<string>tg-Cyrl-TJ</string>
+	</dict>
+	<key>KLInfo_Tajik - PC</key>
+	<dict>
+		<key>TISInputSourceID</key>
+		<string>org.sil.ukelele.keyboardlayout.osx-tajik-keyboard.tajik-pc</string>
+		<key>TISIntendedLanguage</key>
+		<string>tg-Cyrl-TJ</string>
+	</dict>
+	<key>KLInfo_Tajik - Phonetic</key>
+	<dict>
+		<key>TISInputSourceID</key>
+		<string>org.sil.ukelele.keyboardlayout.osx-tajik-keyboard.tajik-phonetic</string>
+		<key>TISIntendedLanguage</key>
+		<string>tg-Cyrl</string>
+	</dict>
+	<key>KLInfo_Tajik - Phonetic - ҚВЕРТ</key>
+	<dict>
+		<key>TISInputSourceID</key>
+		<string>org.sil.ukelele.keyboardlayout.osx-tajik-keyboard.tajik-phonetic-қверт</string>
+		<key>TISIntendedLanguage</key>
+		<string>tg-Cyrl</string>
+	</dict>
+</dict>
+</plist>
