@@ -32,7 +32,7 @@ Done! You can now choose the layout from the list of available input sources and
 * [Windows Russian Phonetic ЯВЕРТ](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/dist/win-russian-keyboard.zip)
 * [Windows Russian Phonetic ЯШЕРТ](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/dist/win-russian-keyboard.zip)
 
-## Usage - Tajik Phonetic Layout ЯВЕРТ (IMPORTANT! The layouts is obsolete, it has been changed to ҚВЕРТ).
+## Usage - Tajik Phonetic Layout ЯВЕРТ (IMPORTANT! The layout is obsolete, it has been changed to ҚВЕРТ).
 
 #### Tajik keyboard is built upon it's Russian counterpart, all non-existent Russian letters are replaced with Tajik letters as on the figures below
 
@@ -40,32 +40,20 @@ Done! You can now choose the layout from the list of available input sources and
 * No modifier keys depressed
 
   ![alt-text](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/img/win-taj-nomod.jpg "No modifier keys depressed (Windows)")
-  
-* Shift
 
-  ![alt-text](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/img/win-taj-shft.jpg "Shift (Windows)")
-  
 * Right Alt (Ctrl + Alt)
 
   ![alt-text](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/img/win-taj-alt.jpg "Right Alt (Ctrl + Alt) (Windows)")
-  
-* Shift + Right Alt (Ctrl + Alt)
 
-  ![alt-text](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/img/win-taj-shft-alt.jpg "Shift + Right Alt (Ctrl + Alt) (Windows)")
+* Shift key UPPERCASES every letter.
 
 #### OSX
 * No modifier keys depressed
 
   ![alt-text](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/img/osx-taj-nomod.png "No modifier keys depressed (OSX)")
   
-* Shift
-
-  ![alt-text](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/img/osx-taj-shft.png "Shift (OSX)")
-
 * Alt (Option)
 
   ![alt-text](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/img/osx-taj-alt.png "Alt (Option) (OSX)")
 
-* Shift + Alt (Option)
-
-  ![alt-text](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/img/osx-taj-shft-alt.png "Shift + Alt (Option) (OSX)")
+* Shift key UPPERCASES every letter.
