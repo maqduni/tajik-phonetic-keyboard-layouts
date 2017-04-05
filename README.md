@@ -28,7 +28,7 @@ Done! You can now choose the layout from the list of available input sources and
 
 
 ## * As a bonus I also added Russian phonetic layouts for OSX and Windows which you can download from the links below,
-* [OSX Russian Phonetic ЯВЕРТ](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/dist/win-russian-keyboard.dmg)
+* [OSX Russian Phonetic ЯВЕРТ](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/dist/osx-russian-keyboard.dmg)
 * [Windows Russian Phonetic ЯВЕРТ](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/dist/win-russian-keyboard.zip)
 * [Windows Russian Phonetic ЯШЕРТ](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/dist/win-russian-keyboard.zip)
 

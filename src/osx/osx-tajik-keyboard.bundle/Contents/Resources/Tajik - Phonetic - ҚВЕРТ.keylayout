@@ -2,7 +2,7 @@
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--Created by Ukelele version 2.2.8 on 2014-10-11 at 15:55 (EDT)-->
 <!--Created by Iskandar Rafiev-->
-<!--Last edited by Ukelele version 3.2.2.166 on 2017-04-04 at 21:12 (EDT)-->
+<!--Last edited by Ukelele version 3.2.2.166 on 2017-04-04 at 23:43 (EDT)-->
 <keyboard group="126" id="-15031" name="Tajik - Phonetic - ҚВЕРТ" maxout="1">
 	<layouts>
 		<layout first="0" last="0" mapSet="138" modifiers="30"/>
