@@ -26,15 +26,15 @@ Done! You can now choose the layout from the list of available input sources and
 NOTE: On Windows 10, you might have to enable the language bar in the `Control Panel -> Regional and Language Settings`.
 
 Done! You can now choose the layout from the list of available input sources and type in Tajik.
+<br>
 
-<br><br>
 ## BONUS - Russian phonetic layouts for OSX and Windows which you can download from the links below,
 * OSX Russian Phonetic ЯШЕРТ ships with OSX, no separate installation is required
 * [OSX Russian Phonetic ЯВЕРТ](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/dist/osx-russian-keyboard.dmg)
 * [Windows Russian Phonetic ЯШЕРТ](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/dist/win-russian-phonetic-keyboard-яшерт.zip)
 * [Windows Russian Phonetic ЯВЕРТ](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/dist/win-russian-phonetic-keyboard-яверт.zip)
 ***
-<br><br>
+<br>
 
 ## Usage - Tajik Phonetic Layout ЯВЕРТ (IMPORTANT! The layout is obsolete, has changed to ҚВЕРТ).
 
