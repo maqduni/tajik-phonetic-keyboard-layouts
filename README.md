@@ -34,28 +34,26 @@ Done! You can now choose the layout from the list of available input sources and
 * [Windows Russian Phonetic ЯШЕРТ](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/dist/win-russian-phonetic-keyboard-яшерт.zip)
 * [Windows Russian Phonetic ЯВЕРТ](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/dist/win-russian-phonetic-keyboard-яверт.zip)
 
-## Usage - Tajik Phonetic Layout ЯВЕРТ (IMPORTANT! The layout is obsolete, it has been changed to ҚВЕРТ).
+## Usage - Tajik Phonetic Layout ҚШЕРТ
 
-#### Tajik keyboard is built upon it's Russian counterpart, all non-existent Russian letters are replaced with Tajik letters as on the figures below
-
-#### Windows
 * No modifier keys depressed
 
-  ![alt-text](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/img/win-taj-nomod.jpg "No modifier keys depressed (Windows)")
+  ![alt-text](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/img/win-taj-қшерт-nomod.jpg "No modifier keys depressed")
 
 * Right Alt (Ctrl + Alt)
 
-  ![alt-text](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/img/win-taj-alt.jpg "Right Alt (Ctrl + Alt) (Windows)")
+  ![alt-text](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/img/win-taj-қшерт-alt.jpg "Right Alt (Ctrl + Alt)")
 
 * Shift key UPPERCASES every letter.
 
-#### OSX
+## Usage - Tajik Phonetic Layout ҚВЕРТ
+
 * No modifier keys depressed
 
-  ![alt-text](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/img/osx-taj-nomod.png "No modifier keys depressed (OSX)")
-  
-* Alt (Option)
+  ![alt-text](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/img/win-taj-қверт-nomod.jpg "No modifier keys depressed")
 
-  ![alt-text](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/img/osx-taj-alt.png "Alt (Option) (OSX)")
+* Right Alt (Ctrl + Alt)
+
+  ![alt-text](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/img/win-taj-қверт-alt.jpg "Right Alt (Ctrl + Alt)")
 
 * Shift key UPPERCASES every letter.
