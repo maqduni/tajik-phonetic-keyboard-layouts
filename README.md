@@ -28,13 +28,6 @@ NOTE: On Windows 10, you might have to enable the language bar in the `Control P
 Done! You can now choose the layout from the list of available input sources and type in Tajik.
 <br>
 
-## BONUS - Russian phonetic layouts for macOS (Mac OS X, OS X) and Windows which you can download from the links below,
-* macOS Russian Phonetic ЯШЕРТ ships with macOS, no separate installation is required
-* [macOS Russian Phonetic ЯВЕРТ](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/dist/osx-russian-keyboard.dmg)
-* [Windows Russian Phonetic ЯШЕРТ](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/dist/win-russian-phonetic-keyboard-яшерт.zip)
-* [Windows Russian Phonetic ЯВЕРТ](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/dist/win-russian-phonetic-keyboard-яверт.zip)
-<br>
-
 ## Usage - Tajik Phonetic Layout ҚШЕРТ
 
 * No modifier keys depressed
@@ -58,3 +51,10 @@ Done! You can now choose the layout from the list of available input sources and
   ![alt-text](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/img/win-taj-қверт-alt.jpg "Right Alt (Ctrl + Alt)")
 
 * Shift key UPPERCASES every letter.
+
+## BONUS - Russian phonetic layouts for macOS (Mac OS X, OS X) and Windows which you can download from the links below,
+* macOS Russian Phonetic ЯШЕРТ ships with macOS, no separate installation is required
+* [macOS Russian Phonetic ЯВЕРТ](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/dist/osx-russian-keyboard.dmg)
+* [Windows Russian Phonetic ЯШЕРТ](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/dist/win-russian-phonetic-keyboard-яшерт.zip)
+* [Windows Russian Phonetic ЯВЕРТ](https://github.com/maqduni/Phonetic-Keyboard-Layouts/raw/master/dist/win-russian-phonetic-keyboard-яверт.zip)
+<br>
